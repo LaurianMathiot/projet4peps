@@ -65,11 +65,11 @@ h2, h3, h4 {
 }
 
 h3 {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 p, li {
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 .btn {
     background-color: white;
@@ -78,9 +78,9 @@ p, li {
     border-radius: 3px;
     padding: 7px 15px;
     margin: 2vw;
-    width: 80px;
+    width: 100px;
     font-family: "Roboto Medium";
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     text-transform: uppercase;
     display: inline-block;
     transition: all 0.2s ease-in;
@@ -132,7 +132,7 @@ strong {
 }
 
 .nav-bar .main-menu li a {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     text-transform: uppercase;
     font-family: "Roboto Bold";
     color: black;
@@ -165,7 +165,7 @@ strong {
     color: white;
     text-transform: uppercase;
     font-family: "Roboto Medium";
-    width: 100px;
+    width: 130px;
     margin: 0;
 }
 
@@ -235,7 +235,7 @@ strong {
 
 #methode .grid div p + p {
     font-style: italic ;
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 
 /* FIN SECTION METHODE */
@@ -337,12 +337,12 @@ strong {
 
 #avis .container .card .job {
     margin-bottom: 1.5vh;
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 #avis .container .card .testimonial {
     margin-bottom: 1.5vh;
-    font-size: 0.6rem;
+    font-size: 0.8rem;
 }
 
 /* FIN SECTION AVIS */
@@ -394,7 +394,7 @@ strong {
 }
 
 #blog article p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 #blog article .btn {
@@ -427,11 +427,11 @@ footer .contact {
     border-left: 1px solid black;
     padding: 1vh 0vw 0vh 3vw;
     margin-left: 3vw;
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 footer .contact p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 footer .contact h4 + p {
@@ -459,7 +459,7 @@ footer .footer-menu li:not(:last-child){
 
 
 .footer-menu li a {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     color: black;
 }
 
@@ -497,7 +497,7 @@ footer .footer-menu li:not(:last-child){
     }
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:700px) {
     
     /* METHODE */
 
